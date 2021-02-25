@@ -1,1 +1,1 @@
-# consulta_http
+# Script para consulta de códigos http
